@@ -7,9 +7,12 @@
 [Informatics Education Student](https://pif.trunojoyo.ac.id/) | Graphic Design | UI/UX | Interested in Web Development
 
 #### About Me
-💻 I'm learning programming and web development. 
+💻 I'm learning programming and web development.
+
 🎨 Interested in UI/UX and graphic design. 
-🚀 Building projects to improve my skills. 
+
+🚀 Building projects to improve my skills.
+
 📚 Exploring technology in education.
 
 #### Skills
