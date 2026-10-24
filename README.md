@@ -8,8 +8,11 @@
 
 #### About Me
 💻 I'm learning programming and web development
+
 🎨 Interested in UI/UX and graphic design
+
 🚀 Building projects to improve my skills
+
 📚 Exploring technology in education
 
 #### Skills
